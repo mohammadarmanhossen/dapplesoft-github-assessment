@@ -3,7 +3,7 @@
 
 ## 📸 Screenshot
 
-![clone-https ](https://github.com/mohammadarmanhossen/Customer-Management/blob/ebb0ea0082727892f4993314518253567adb26f8/Table-imges/Screenshot%202025-09-25%20122649.png)
+![clone-https ](https://github.com/mohammadarmanhossen/dapplesoft-github-assessment/blob/ee98298fcb8a5c1f8a833101ea59c595045c1f8f/Screenshot/clone-gitcli.png)
 
 ![Customer Add Table ](https://github.com/mohammadarmanhossen/Customer-Management/blob/cd9c866ff7ddee2c0f43c4d25adb7881327f0d73/Table-imges/Screenshot%202025-09-25%20122715.png)
 

@@ -35,3 +35,6 @@
 ## Conflict problem solve 
 
 ![Conflict problem solve ](https://github.com/mohammadarmanhossen/dapplesoft-github-assessment/blob/a0c159873b3e3a11c8ca6d25a47ab392a27f6549/Screenshot/confligt.png)
+
+## Merge pull request done 
+![Magre pull request done](https://github.com/mohammadarmanhossen/dapplesoft-github-assessment/blob/c377361cbf1f9bb1f05312a75dee245352f75cb0/Screenshot/pull%20request%20done%20dashboard.png)

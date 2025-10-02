@@ -27,3 +27,7 @@
 ## Feature Branch Created 
 
 ![feature login and dashboard](https://github.com/mohammadarmanhossen/dapplesoft-github-assessment/blob/07d8565de8e61975bc0692c4ed4a35393ea04db9/Screenshot/feature-login%20and%20feature-dashboard%20make%20command.png)
+
+## Conflict mearg
+
+![conflict marge login and dashboard](https://github.com/mohammadarmanhossen/dapplesoft-github-assessment/blob/4e8df27174d3f827ee5182dc32f8931902591287/Screenshot/conflict-before%20and%20conflict-after.png)

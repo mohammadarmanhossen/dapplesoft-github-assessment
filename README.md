@@ -31,3 +31,7 @@
 ## Conflict mearg
 
 ![conflict marge login and dashboard](https://github.com/mohammadarmanhossen/dapplesoft-github-assessment/blob/4e8df27174d3f827ee5182dc32f8931902591287/Screenshot/conflict-before%20and%20conflict-after.png)
+
+## Conflict problem solve 
+
+![Conflict problem solve ](https://github.com/mohammadarmanhossen/dapplesoft-github-assessment/blob/a0c159873b3e3a11c8ca6d25a47ab392a27f6549/Screenshot/confligt.png)

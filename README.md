@@ -1,46 +1,10 @@
 # dapplesoft-github-assessment feature/dashboard
-# Customer Management Assignment
-
-This project is a **Customer Management System** with frontend built in **Angular** and backend using **Django** + **Django REST Framework**. The database is **PostgreSQL**.
-
----
-
-## 🔧 Technologies Used
-- **Frontend:** Angular
-- **Backend:** Django, Django REST Framework
-- **Database:** PostgreSQL
-- **Other:** HTML, CSS, Bootstrap
-
----
-
-## ⚙️ Features / CRUD Operations
-
-This project implements **CRUD operations** (Create, Read, Update, Delete) for managing customers:
-
-1. **Create Customer**
-   - Add a new customer with details like Name, Email, Phone, Address,Amount, etc.
-   - Form validation is applied to ensure data integrity.
-
-2. **Read / View Customers**
-   - View a list of all customers.
-   - Each customer entry shows complete details.
-
-3. **Update Customer**
-   - Edit existing customer information.
-   - Changes are validated and updated in the PostgreSQL database via Django REST API.
-
-4. **Delete Customer**
-   - Delete a customer permanently from the system.
-   - Confirmation prompt is provided before deletion to prevent accidental removal.
-
----
-
 
 # Customer Management Assignment Table 
 
 ## 📸 Screenshot
 
-![Customer Management Full Table ](https://github.com/mohammadarmanhossen/Customer-Management/blob/ebb0ea0082727892f4993314518253567adb26f8/Table-imges/Screenshot%202025-09-25%20122649.png)
+![clone-https ](https://github.com/mohammadarmanhossen/Customer-Management/blob/ebb0ea0082727892f4993314518253567adb26f8/Table-imges/Screenshot%202025-09-25%20122649.png)
 
 ![Customer Add Table ](https://github.com/mohammadarmanhossen/Customer-Management/blob/cd9c866ff7ddee2c0f43c4d25adb7881327f0d73/Table-imges/Screenshot%202025-09-25%20122715.png)
 

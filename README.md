@@ -1,6 +1,5 @@
 # dapplesoft-github-assessment feature/dashboard
 
-# Customer Management Assignment Table 
 
 ## 📸 Screenshot
 
